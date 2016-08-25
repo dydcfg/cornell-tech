@@ -5,7 +5,7 @@
 > MEng Computer Science
 > Class of 2017
 
-> [Curriculum Overview](http://tech.cornell.edu/programs/masters-programs/master-in-computer-science/curriculum-computer-science)
+> [Curriculum Overview](http://tech.cornell.edu/programs/masters-programs/master-in-computer-science/curriculum-computer-science target="_blank)
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### School Wide
 
-- [Blackboard](https://blackboard.cornell.edu/webapps/login/)
+- [Blackboard](https://blackboard.cornell.edu/webapps/login/ target="_blank")
 - [Box](https://cornell.app.box.com/files)
     - [Cornell Tech Branding Assets](https://cornell.app.box.com/s/5zs0qibswrbl3hmtg9ce)
 - [Class Scheduler](https://classes.cornell.edu/browse/roster/FA16)
