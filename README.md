@@ -66,6 +66,7 @@
 - [Google Group](https://groups.google.com/a/cornelltech.io/forum/#!forum/cs5356-fall-2016)
 - [CMS for HW Assignments](https://cms-a.csuglab.cornell.edu/web/auth/?action=course&courseid=34)
 - [Piazza](https://piazza.com/cornell/fall2016/cs5356/home)
+- [Student Roster GitHub Page](https://startup-systems.github.io/students/)
 
 #### 3. CS 5435 - Security and Privacy Concepts in the Wild
 
@@ -78,12 +79,15 @@
 
 - [GitHub Repo](https://github.com/cornelltech/startup-ideas)
 - [Unicornucopia](https://www.unicornucopia.org/)
+    + for submitting ideas
 - [Dream Team](https://dreamteam.cornelltech.io/startup-ideas)
+    + teams to ideate with
 
 #### 5. CS 5091 - Conversations in the Studio
 
 - [GitHub Repo](https://github.com/cornelltech/conversations-in-the-studio)
-
+- [Sli.do](https://admin2.sli.do/events)
+    + for keeping track of questions to ask invited speakers
 
 #### 6. CS 5999 - Product Studio
 
