@@ -5,7 +5,7 @@
 > MEng Computer Science
 > Class of 2017
 
-> [Curriculum Overview](http://tech.cornell.edu/programs/masters-programs/master-in-computer-science/curriculum-computer-science target="_blank)
+> [Curriculum Overview](http://tech.cornell.edu/programs/masters-programs/master-in-computer-science/curriculum-computer-science)
 
 ---
 
@@ -13,14 +13,15 @@
 
 ### School Wide
 
-- [Blackboard](https://blackboard.cornell.edu/webapps/login/ target="_blank")
+- [Blackboard](https://blackboard.cornell.edu/webapps/login)
 - [Box](https://cornell.app.box.com/files)
     - [Cornell Tech Branding Assets](https://cornell.app.box.com/s/5zs0qibswrbl3hmtg9ce)
 - [Class Scheduler](https://classes.cornell.edu/browse/roster/FA16)
     - useful for preparing a class schedule
-- [Student Essentials Dashboard](https://studentessentials.cornell.edu/auth/portal)
+- [Course Websites](https://confluence.cornell.edu/display/CTSR/Course+Websites)
+- [Student Essentials Dashboard](https://studentessentials.cornell.edu)
     - new admin portal for Cornell students
-- [Student Center Dashboard](https://studentcenter.cornell.edu/)
+- [Student Center Dashboard](https://studentcenter.cornell.edu)
     - enroll in classes
 - [CashNet](https://webauth.cashnet.com/cupayauth)
     - pay bills
@@ -29,17 +30,12 @@
 - [To-Do List for New Grads](https://todo.newstudents.cornell.edu/fall-2016/graduate-professional/todolist/)
     + useful for getting ready to take classes at Cornell
 
-### Confluence
-
-- [Course Websites](https://confluence.cornell.edu/display/CTSR/Course+Websites)
-- [Hackathons at Cornell Tech](https://confluence.cornell.edu/pages/viewpage.action?pageId=321225482)
-- [Jobs and Internship Listings for Cornell Tech Students](https://confluence.cornell.edu/pages/viewpage.action?pageId=281215229)
-
 ### Other
 
 - [Cluster](https://cluster.co/c/Cp2Mwf8XN_4/)
     - pictures taken of students at events
 - [Hackathons at Cornell Tech](https://confluence.cornell.edu/pages/viewpage.action?pageId=321225482)
+- [Jobs and Internship Listings for Cornell Tech Students](https://confluence.cornell.edu/pages/viewpage.action?pageId=281215229)
 
 ---
 
@@ -76,11 +72,13 @@
 - [Quizlet Decks for Lectures](https://quizlet.com/class/3126750/)
     + [Lecture 1 - 08/24/16](https://quizlet.com/147169720/cs-5435-lecture-1-flash-cards/)
 - [Piazza](https://piazza.com/cornell/fall2016/cs5435)
-- [CMS for HW Assignments]()
+- [CMS for HW Assignments](https://cms.csuglab.cornell.edu/web/auth/?action=course&courseid=38)
 
 #### 4. CS 5092 - Startup Ideas
 
 - [GitHub Repo](https://github.com/cornelltech/startup-ideas)
+- [Unicornucopia](https://www.unicornucopia.org/)
+- [Dream Team](https://dreamteam.cornelltech.io/startup-ideas)
 
 #### 5. CS 5091 - Conversations in the Studio
 
@@ -94,3 +92,4 @@
 #### 7. CS 2048 - Intro to iOS Development
 
 - [Home Page](http://www.cs.cornell.edu/courses/cs2048/2016fa/nyc/index.html)
+- [Piazza](https://piazza.com/cornell/spring2016/cs2049/home)
